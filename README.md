@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mani175
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on No One
+- 🌱 I’m currently learning Lua
+- 💞️ I’m looking to collaborate on Rdimo
 - 📫 How to reach me manitehranii39@gmail.com
 
 <!---
